@@ -1,0 +1,47 @@
+	body{
+		background-color: FloralWhite;
+		text-align:center;
+		margin:50px;
+	}
+	h1{
+		background:maroon;
+		color:floralwhite;
+		font-family:Garamond, serif;
+		font-size:80px;
+	}
+	h2{
+		font-size:30px;
+		font-family:Garamond, serif;
+	}
+	h3{
+		font-size:25px;
+		font-family:Garamond, serif;
+	}
+	nav{
+		font-size:25px;
+		font-family: Garamond, serif;
+		padding-bottom:40px;
+	}
+	section{
+		font-size:18px;
+		font-family:Arial, sans-serif;
+	}
+	
+	ul.a{
+		text-align:left;
+		font-family:Arial, sans-serif;
+		list-style-type: square;
+	}
+	ul.b{
+		text-align:center;
+		list-style-type: none;
+		font-family:Arial, sans-serif;
+	}
+	footer{
+		font-size:15px;
+		font-family:Arial, sans-serif;
+		background-color: grey;
+		color:floralwhite;
+		padding:5px
+	}
+	
